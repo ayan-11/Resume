@@ -1,0 +1,26 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+.container {
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 30px;
+    border: 3px solid;
+    border-radius: 10px;
+}
+
+h1, h4 {
+    text-align: center;
+    margin: 10px 0;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+hr {
+    border: 1px solid black;
+}
+strong {
+    font-weight: bold;
+}
